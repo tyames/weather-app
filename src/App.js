@@ -17,7 +17,7 @@ import axios from 'axios';
           setData(response.data)
           console.log(response.data)
         })
-        setLocation('')
+        setLocation('') 
       }
     }
   
